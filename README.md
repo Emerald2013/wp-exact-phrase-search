@@ -1,4 +1,4 @@
 wp-exact-phrase-search
 ======================
 
-This snippet will search for complete phrase rather than substrings.
+This snippet when placed in functions.php of active theme, will search for complete phrase rather than substrings in wordpress search.
